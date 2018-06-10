@@ -1,0 +1,5 @@
+name: jyotheeswara reddy
+email: reddyjyotheeswara@gmail.com
+github user name: jyotheeswara
+the session was easy to follow
+i didn't understand properly why we are adding and commiting.what happens if we don't do one of these.
