@@ -1,15 +1,17 @@
 # github-workshop
 Dated: July 07, 2018
 
-Create an account at https://github.com/
+I conducted a Github workshop as part of a summer program conducted by the CSE department of IIT Madras. The workshop included the following assignments.
+
 
 --------------------------
 First Assignment - Basics
 --------------------------
 
-1. Clone the repository at https://github.com/devsjee/github-workshop.
-2. Inside the 'Assignment-1/participants' folder, create a new file in your name, for ex : Rahul.txt .
-3. Add the following details about yourself in the file: 
+1. Create an account at https://github.com/
+2. Clone the repository at https://github.com/devsjee/github-workshop.
+3. Inside the 'Assignment-1/participants' folder, create a new file in your name, for ex : Rahul.txt .
+4. Add the following details about yourself in the file: 
 
     name: 
     email:
@@ -17,8 +19,8 @@ First Assignment - Basics
     Was the morning session easy to follow ? :
     Which topics you found difficult (if any) ? :
    
- 4. Stage and Commit the changes in local repository.
- 5. Push the changes back to the online github repository.
+ 5. Stage and Commit the changes in local repository.
+ 6. Push the changes back to the online github repository.
  
  After around 15 mins,
  1. pull the changes in github repository to your local copy.
